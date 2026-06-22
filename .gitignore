@@ -1,0 +1,9 @@
+# Personal exported data — never commit
+output/
+*.ldb
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
